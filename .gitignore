@@ -1,0 +1,9 @@
+# Archivos compilados de Java
+*.class
+
+# Carpeta de salida de Eclipse / compilacion
+bin/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
