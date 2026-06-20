@@ -68,7 +68,7 @@ Tal como pide la consigna, la aplicación demuestra el uso de:
 
 ## ▶️ Cómo ejecutar
 
-### Opción A — Ejecutar el JAR (recomendado)
+### Opción A - Ejecutar el JAR (recomendado)
 
 Requiere **Java 8 o superior**:
 
@@ -76,7 +76,7 @@ Requiere **Java 8 o superior**:
 java -jar dist/AdivinaElNumero.jar
 ```
 
-### Opción B — Compilar y ejecutar desde la línea de comandos
+### Opción B - Compilar y ejecutar desde la línea de comandos
 
 ```bash
 # Compilar a la carpeta bin/
@@ -86,7 +86,7 @@ javac -encoding UTF-8 -d bin src/juego/*.java src/app/*.java
 java -cp bin app.Main
 ```
 
-### Opción C — Abrir en Eclipse
+### Opción C - Abrir en Eclipse
 
 1. `File` → `Import...` → `General` → `Existing Projects into Workspace`.
 2. Seleccioná la carpeta `AdivinaElNumero`.
